@@ -1,1 +1,1 @@
-select * from "public"."Account"
+-- select * from "public"."Account"
